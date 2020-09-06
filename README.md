@@ -1,5 +1,30 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## This is the raw  website for Brij Builders
+
+
+
+
+
+## This is what you see after ```create next app```
+Success! Created brij-builders at 
+Inside that directory, you can run several commands:
+
+  ```yarn dev```
+    Starts the development server.
+
+  ```yarn build```
+    Builds the app for production.
+
+  ```yarn start```
+    Runs the built app in production mode.
+
+We suggest that you begin by typing:
+
+  ```cd brij-builders```
+  ```yarn dev```
+
 ## Getting Started
 
 First, run the development server:
@@ -28,3 +53,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
