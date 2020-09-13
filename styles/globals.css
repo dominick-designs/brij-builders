@@ -1,16 +1,65 @@
+/*color scheme
+jazzberry-jam: #c43876;
+rajah: #f6bb6d;
+hit-pink: #f8a580;
+gulf-blue: #031c56;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@700&family=Raleway:ital@0;1&display=swap');
+
+
 html,
 body {
+  height: 100%;
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
+  line-height: 1.6;
+  font-size: 18px;
 }
 
 * {
   box-sizing: border-box;
+}
+
+a {
+  color: #031c56;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #c43876;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Domine',
+    serif;
+  color: #031c56;
+}
+
+p {
+
+  font-family: 'Raleway',
+    sans-serif;
+  color: #031c56;
+
+}
+
+.btn-primary {
+  background-color: #031c56;
+  border-color: #c43876;
+}
+
+.btn-primary:hover{
+  background-color: #c43876;
 }
